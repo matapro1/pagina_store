@@ -205,7 +205,7 @@ h3 {
    border: 1rem solid var(--primarioOscuro);
    background-color: transparent;
    color: var(--blanco);
-   font-size: 2rem;
+   font-size: 2rem; 
    font-family: Arial, Helvetica, sans-serif;
    padding: 1rem;
    appearance: none;
